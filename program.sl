@@ -1,0 +1,13 @@
+a := 10.0;
+b := 12;
+a=(float)a;
+b=(long)b;
+c = a + b;
+print c;
+d=a-b;
+print d;
+e=a/b; print e;
+f=a.b;print f;
+f=a+1;print f;
+a=(float)1.12;
+b=(int)a;
